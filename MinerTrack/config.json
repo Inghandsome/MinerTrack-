@@ -1,0 +1,12 @@
+{
+    "puerto_com": "COM3",
+    "baudrate": 9600,
+    "camara_index": 0,
+    "materiales": [
+        "Caolín",
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Otro Mineral"
+    ]
+}

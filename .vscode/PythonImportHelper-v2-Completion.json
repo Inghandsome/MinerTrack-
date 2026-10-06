@@ -1,0 +1,536 @@
+[
+    {
+        "label": "serial",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "serial",
+        "description": "serial",
+        "detail": "serial",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "easyocr",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "easyocr",
+        "description": "easyocr",
+        "detail": "easyocr",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pymongo",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "json_util",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "mm",
+        "importPath": "reportlab.lib.pagesizes",
+        "description": "reportlab.lib.pagesizes",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.pagesizes",
+        "documentation": {}
+    },
+    {
+        "label": "canvas",
+        "importPath": "reportlab.pdfgen",
+        "description": "reportlab.pdfgen",
+        "isExtraImport": true,
+        "detail": "reportlab.pdfgen",
+        "documentation": {}
+    },
+    {
+        "label": "mm",
+        "importPath": "reportlab.lib.units",
+        "description": "reportlab.lib.units",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.units",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "LectorPlacas",
+        "importPath": "core.camara",
+        "description": "core.camara",
+        "isExtraImport": true,
+        "detail": "core.camara",
+        "documentation": {}
+    },
+    {
+        "label": "LectorPlacas",
+        "importPath": "core.camara",
+        "description": "core.camara",
+        "isExtraImport": true,
+        "detail": "core.camara",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "FigureCanvasTkAgg",
+        "importPath": "matplotlib.backends.backend_tkagg",
+        "description": "matplotlib.backends.backend_tkagg",
+        "isExtraImport": true,
+        "detail": "matplotlib.backends.backend_tkagg",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "GeneradorTicket",
+        "importPath": "core.ticket_generator",
+        "description": "core.ticket_generator",
+        "isExtraImport": true,
+        "detail": "core.ticket_generator",
+        "documentation": {}
+    },
+    {
+        "label": "GeneradorTicket",
+        "importPath": "core.ticket_generator",
+        "description": "core.ticket_generator",
+        "isExtraImport": true,
+        "detail": "core.ticket_generator",
+        "documentation": {}
+    },
+    {
+        "label": "LectorBascula",
+        "importPath": "core.bascula",
+        "description": "core.bascula",
+        "isExtraImport": true,
+        "detail": "core.bascula",
+        "documentation": {}
+    },
+    {
+        "label": "GestorBaseDatos",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigManager",
+        "importPath": "core.config_manager",
+        "description": "core.config_manager",
+        "isExtraImport": true,
+        "detail": "core.config_manager",
+        "documentation": {}
+    },
+    {
+        "label": "VentanaHistorial",
+        "importPath": "gui.historial_window",
+        "description": "gui.historial_window",
+        "isExtraImport": true,
+        "detail": "gui.historial_window",
+        "documentation": {}
+    },
+    {
+        "label": "VentanaDashboard",
+        "importPath": "gui.dashboard_window",
+        "description": "gui.dashboard_window",
+        "isExtraImport": true,
+        "detail": "gui.dashboard_window",
+        "documentation": {}
+    },
+    {
+        "label": "VentanaConfiguracion",
+        "importPath": "gui.config_window",
+        "description": "gui.config_window",
+        "isExtraImport": true,
+        "detail": "gui.config_window",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "AplicacionMinerTrack",
+        "importPath": "gui.main_window",
+        "description": "gui.main_window",
+        "isExtraImport": true,
+        "detail": "gui.main_window",
+        "documentation": {}
+    },
+    {
+        "label": "VentanaLogin",
+        "importPath": "gui.login_window",
+        "description": "gui.login_window",
+        "isExtraImport": true,
+        "detail": "gui.login_window",
+        "documentation": {}
+    },
+    {
+        "label": "LectorBascula",
+        "kind": 6,
+        "importPath": "MinerTrack.core.bascula",
+        "description": "MinerTrack.core.bascula",
+        "peekOfCode": "class LectorBascula:\n    \"\"\"\n    Clase para manejar la lectura del indicador Transcell TI-1680.\n    Permite trabajar en modo 'físico' o en modo 'simulación'.\n    Incluye algoritmo de detección de estabilidad para captura autónoma.\n    \"\"\"\n    def __init__(self, puerto='COM3', baudrate=9600, simulacion=True, umbral_minimo=1000.0, tolerancia_estabilidad=20.0):\n        self.puerto = puerto\n        self.baudrate = baudrate\n        self.simulacion = simulacion",
+        "detail": "MinerTrack.core.bascula",
+        "documentation": {}
+    },
+    {
+        "label": "LectorPlacas",
+        "kind": 6,
+        "importPath": "MinerTrack.core.camara",
+        "description": "MinerTrack.core.camara",
+        "peekOfCode": "class LectorPlacas:\n    \"\"\"\n    Controlador de Cámara (USB o IP/RTSP) y OCR en Tiempo Real.\n    - Mantiene stream de video continuo a ~30 FPS para mostrar en la GUI.\n    - Soporta Webcams USB locales (0, 1, 2...) y Cámaras IP (RTSP / HTTP).\n    - Ejecuta OCR periódico en segundo plano para detección instantánea sin pausas.\n    - Dibuja un recuadro verde en vivo sobre la placa detectada.\n    \"\"\"\n    def __init__(self, fuente_camara=0):\n        self.fuente_camara = fuente_camara  # Puede ser int (0, 1) o str (\"rtsp://...\")",
+        "detail": "MinerTrack.core.camara",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigManager",
+        "kind": 6,
+        "importPath": "MinerTrack.core.config_manager",
+        "description": "MinerTrack.core.config_manager",
+        "peekOfCode": "class ConfigManager:\n    def __init__(self, archivo=\"config.json\"):\n        self.archivo = archivo\n        self.configuracion = {\n            \"puerto_com\": \"COM3\",\n            \"baudrate\": 9600,\n            # Configuración de Cámara\n            \"tipo_camara\": \"USB\",  # \"USB\" o \"IP_RTSP\"\n            \"camara_index\": 0,\n            \"camara_ip\": \"192.168.1.64\",",
+        "detail": "MinerTrack.core.config_manager",
+        "documentation": {}
+    },
+    {
+        "label": "GestorBaseDatos",
+        "kind": 6,
+        "importPath": "MinerTrack.core.database",
+        "description": "MinerTrack.core.database",
+        "peekOfCode": "class GestorBaseDatos:\n    def __init__(self, uri=\"mongodb://localhost:27017/\", nombre_bd=\"MinerTrackDB\"):\n        self.uri = uri\n        self.nombre_bd = nombre_bd\n        self.cliente = None\n        self.bd = None\n    def conectar(self):\n        try:\n            # serverSelectionTimeoutMS bajo para que no se quede colgado si MongoDB no está instalado\n            self.cliente = pymongo.MongoClient(self.uri, serverSelectionTimeoutMS=2000)",
+        "detail": "MinerTrack.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "GeneradorTicket",
+        "kind": 6,
+        "importPath": "MinerTrack.core.ticket_generator",
+        "description": "MinerTrack.core.ticket_generator",
+        "peekOfCode": "class GeneradorTicket:\n    def __init__(self):\n        # Tamaño de ticket típico de 80mm de ancho x 200mm de alto\n        self.ancho = 80 * mm\n        self.alto = 200 * mm\n    def generar_ticket(self, placas, material, bruto, tara, neto, fecha_str, operador=\"\"):\n        # Nombre del archivo temporal\n        nombre_archivo = f\"Ticket_{placas}_{datetime.datetime.now().strftime('%H%M%S')}.pdf\"\n        c = canvas.Canvas(nombre_archivo, pagesize=(self.ancho, self.alto))\n        # Inicio del dibujo",
+        "detail": "MinerTrack.core.ticket_generator",
+        "documentation": {}
+    },
+    {
+        "label": "VentanaConfiguracion",
+        "kind": 6,
+        "importPath": "MinerTrack.gui.config_window",
+        "description": "MinerTrack.gui.config_window",
+        "peekOfCode": "class VentanaConfiguracion:\n    def __init__(self, parent, config_manager, gestor_bd, on_config_saved):\n        self.ventana = tk.Toplevel(parent)\n        self.ventana.title(\"MinerTrack - Configuración del Sistema\")\n        self.ventana.geometry(\"660x650\")\n        self.ventana.configure(bg=\"#2E3440\")\n        self.ventana.resizable(False, False)\n        self.ventana.transient(parent)\n        self.ventana.grab_set()\n        self.config = config_manager",
+        "detail": "MinerTrack.gui.config_window",
+        "documentation": {}
+    },
+    {
+        "label": "VentanaDashboard",
+        "kind": 6,
+        "importPath": "MinerTrack.gui.dashboard_window",
+        "description": "MinerTrack.gui.dashboard_window",
+        "peekOfCode": "class VentanaDashboard:\n    def __init__(self, parent, gestor_bd):\n        self.ventana = tk.Toplevel(parent)\n        self.ventana.title(\"MinerTrack - Dashboard de Estadísticas\")\n        self.ventana.geometry(\"900x600\")\n        self.ventana.configure(bg=\"#2E3440\")\n        self.gestor_bd = gestor_bd\n        # Título\n        lbl_titulo = tk.Label(self.ventana, text=\"📈 Estadísticas Generales\",\n                              font=(\"Helvetica\", 20, \"bold\"),",
+        "detail": "MinerTrack.gui.dashboard_window",
+        "documentation": {}
+    },
+    {
+        "label": "VentanaHistorial",
+        "kind": 6,
+        "importPath": "MinerTrack.gui.historial_window",
+        "description": "MinerTrack.gui.historial_window",
+        "peekOfCode": "class VentanaHistorial:\n    \"\"\"\n    Ventana secundaria que muestra el historial de todos los movimientos\n    guardados en MongoDB, con búsqueda por placa y filtro por día.\n    \"\"\"\n    def __init__(self, parent, gestor_bd):\n        self.gestor_bd = gestor_bd\n        self.ventana = tk.Toplevel(parent)\n        self.ventana.title(\"MinerTrack - Historial de Movimientos\")\n        self.ventana.geometry(\"1050x620\")",
+        "detail": "MinerTrack.gui.historial_window",
+        "documentation": {}
+    },
+    {
+        "label": "VentanaLogin",
+        "kind": 6,
+        "importPath": "MinerTrack.gui.login_window",
+        "description": "MinerTrack.gui.login_window",
+        "peekOfCode": "class VentanaLogin:\n    def __init__(self, root, on_login_success):\n        self.root = root\n        self.root.title(\"MinerTrack - Iniciar Sesión\")\n        self.root.geometry(\"400x500\")\n        self.root.configure(bg=\"#2E3440\")\n        self.root.resizable(False, False)\n        self.on_login_success = on_login_success\n        # Usuarios estáticos por ahora (se pueden mover a BD luego)\n        self.usuarios = {",
+        "detail": "MinerTrack.gui.login_window",
+        "documentation": {}
+    },
+    {
+        "label": "AplicacionMinerTrack",
+        "kind": 6,
+        "importPath": "MinerTrack.gui.main_window",
+        "description": "MinerTrack.gui.main_window",
+        "peekOfCode": "class AplicacionMinerTrack:\n    # Estados del ciclo autónomo\n    ESTADO_ESPERANDO = \"ESPERANDO\"\n    ESTADO_ESTABILIZANDO = \"ESTABILIZANDO\"\n    ESTADO_DISPARO = \"DISPARO\"\n    ESTADO_ATENDIDO = \"ATENDIDO\"\n    def __init__(self, root, operador=\"Operador\"):\n        self.root = root\n        self.root.title(\"MinerTrack - Sistema de Pesaje Autónomo\")\n        self.root.geometry(\"1080x760\")",
+        "detail": "MinerTrack.gui.main_window",
+        "documentation": {}
+    },
+    {
+        "label": "VentanaSemaforo",
+        "kind": 6,
+        "importPath": "MinerTrack.gui.semaforo_window",
+        "description": "MinerTrack.gui.semaforo_window",
+        "peekOfCode": "class VentanaSemaforo:\n    \"\"\"\n    Ventana secundaria de pantalla completa que muestra un semaforo gigante\n    para indicarle al chofer del camion cuando puede avanzar.\n    \"\"\"\n    ESTADO_LIBRE = \"LIBRE\"\n    ESTADO_ROJO = \"ROJO\"\n    ESTADO_AMARILLO = \"AMARILLO\"\n    ESTADO_VERDE = \"VERDE\"\n    def __init__(self, parent):",
+        "detail": "MinerTrack.gui.semaforo_window",
+        "documentation": {}
+    },
+    {
+        "label": "PUERTO",
+        "kind": 5,
+        "importPath": "MinerTrack.capturar_trama_bascula",
+        "description": "MinerTrack.capturar_trama_bascula",
+        "peekOfCode": "PUERTO = 'COM3' \nBAUDRATE = 9600\nprint(f\"--- MODO DIAGNÓSTICO DE BÁSCULA ---\")\nprint(f\"Intentando conectar al puerto {PUERTO} a {BAUDRATE} baudios...\")\ntry:\n    conexion = serial.Serial(\n        port=PUERTO,\n        baudrate=BAUDRATE,\n        bytesize=serial.EIGHTBITS,\n        parity=serial.PARITY_NONE,",
+        "detail": "MinerTrack.capturar_trama_bascula",
+        "documentation": {}
+    },
+    {
+        "label": "BAUDRATE",
+        "kind": 5,
+        "importPath": "MinerTrack.capturar_trama_bascula",
+        "description": "MinerTrack.capturar_trama_bascula",
+        "peekOfCode": "BAUDRATE = 9600\nprint(f\"--- MODO DIAGNÓSTICO DE BÁSCULA ---\")\nprint(f\"Intentando conectar al puerto {PUERTO} a {BAUDRATE} baudios...\")\ntry:\n    conexion = serial.Serial(\n        port=PUERTO,\n        baudrate=BAUDRATE,\n        bytesize=serial.EIGHTBITS,\n        parity=serial.PARITY_NONE,\n        stopbits=serial.STOPBITS_ONE,",
+        "detail": "MinerTrack.capturar_trama_bascula",
+        "documentation": {}
+    },
+    {
+        "label": "iniciar_app",
+        "kind": 2,
+        "importPath": "MinerTrack.main",
+        "description": "MinerTrack.main",
+        "peekOfCode": "def iniciar_app(usuario):\n    \"\"\"Callback que se ejecuta cuando el login es exitoso.\"\"\"\n    print(f\"Bienvenido {usuario}\")\n    # Limpiamos la ventana de login actual (la reutilizamos para la app)\n    for widget in root.winfo_children():\n        widget.destroy()\n    # Iniciamos la aplicación principal con el nombre del operador\n    app = AplicacionMinerTrack(root, operador=usuario)\nif __name__ == \"__main__\":\n    root = tk.Tk()",
+        "detail": "MinerTrack.main",
+        "documentation": {}
+    }
+]
